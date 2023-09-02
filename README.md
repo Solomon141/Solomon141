@@ -38,6 +38,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=solomon141&show_icons=true&locale=en&layout=compact" alt="solomon141" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solomon141&show_icons=true&locale=en" alt="solomon141" />
+  
+</p>
+
+<p>
   ![Leetcode Stats](https://leetcard.jacoblin.cool/solomon141?ext=heatmap)
 </p>
 
