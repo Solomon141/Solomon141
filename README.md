@@ -37,5 +37,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=solomon141&show_icons=true&locale=en&layout=compact" alt="solomon141" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solomon141&show_icons=true&locale=en" alt="solomon141" /></p>
-![Leetcode Stats](https://leetcard.jacoblin.cool/solomon141)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solomon141&show_icons=true&locale=en" alt="solomon141" />
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+</p>
+![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
