@@ -42,7 +42,8 @@
 </p>
 
 <p>
-  ![](https://leetcard.jacoblin.cool/Solomon141?site=cn)
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/Solomon141?ext=heatmap)
+
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/Solomon141?theme=nord)
+  ![](https://leetcard.jacoblin.cool/Solomon141?theme=nord)
 </p>
 
