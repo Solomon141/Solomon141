@@ -41,8 +41,5 @@
   
 </p>
 
-<p>
-  ![](https://leetcard.jacoblin.cool/Solomon141?theme=nord)
-  
-</p>
+<p>![](https://leetcard.jacoblin.cool/Solomon141?theme=nord)</p>
 
