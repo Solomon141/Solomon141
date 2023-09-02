@@ -43,6 +43,6 @@
 
 <p>
   ![](https://leetcard.jacoblin.cool/Solomon141?theme=nord)
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/Solomon141?ext=activity)
+  
 </p>
 
