@@ -47,6 +47,12 @@
 
 ![logo](https://coursera.org/share/a5b16954b51f2b9c3d0d2f7a30bf7a1c)
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://coursera.org/share/a5b16954b51f2b9c3d0d2f7a30bf7a1c">
+ <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://coursera.org/share/a5b16954b51f2b9c3d0d2f7a30bf7a1c)">
+ <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://coursera.org/share/a5b16954b51f2b9c3d0d2f7a30bf7a1c)">
+</picture>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=solomon141&show_icons=true&locale=en&layout=compact" alt="solomon141" /></p>
 
