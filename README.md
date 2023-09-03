@@ -6,8 +6,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solomon141" alt="solomon141" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/soltwitte" target="blank"><img src="https://img.shields.io/twitter/follow/soltwitte?logo=twitter&style=for-the-badge" alt="soltwitte" /></a> 
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/Solomon141?ext=contest)
+  
+  
 </p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Solomon141?ext=contest)
+
 
 - 🔭 I’m currently working on **Field worker employee tracking app**
 
