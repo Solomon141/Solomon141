@@ -1,8 +1,4 @@
-<picture>
- <source media="https://drive.google.com/file/d/1nPUsLUXOmZkT9EJOyhn-q_9ghWcY9Liy/view?usp=sharing" srcset="YOUR-DARKMODE-IMAGE">
- <source media="https://drive.google.com/file/d/1nPUsLUXOmZkT9EJOyhn-q_9ghWcY9Liy/view?usp=sharing" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="https://drive.google.com/file/d/1nPUsLUXOmZkT9EJOyhn-q_9ghWcY9Liy/view?usp=sharing">
-</picture>
+![logo](https://github.com/Solomon141/Solomon141/blob/main/banner.jpeg)
 
 <h1 align="center">Hi 👋, I'm Solomon Gebremichael</h1>
 <h3 align="center">A passionate full stack / javascript and python developer from Ethiopia</h3>
