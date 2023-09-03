@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **weymit2001@gmail.com**
 
-- 📄 Know about my experiences [https://solomon141.github.io/solmichael/](https://solomon141.github.io/solmichael/)
+- 📄 Know about my experiences [https://solomon141.github.io/solmichael/](https://solomon141.github.io/solmike/)
 
 - ⚡ Fun fact **I am a father who loves his family and an engineer who works hard to achieve his goals.**
 
