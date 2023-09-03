@@ -50,4 +50,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solomon141&show_icons=true&locale=en" alt="solomon141" />
   
 </p>
-
+![logo](https://github.com/Solomon141/Solomon141/blob/main/banner.jpeg)
