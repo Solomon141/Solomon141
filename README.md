@@ -21,13 +21,13 @@
 
 - 👯 I’m looking to collaborate on **Django, Nodejs, React + React native**
 
-- 👨‍💻 All of my projects are available at [https://solomon141.github.io/solmichael/](https://solomon141.github.io/solmichael/)
+- 👨‍💻 All of my projects are available at [https://solomon141.github.io/solmike/](https://solomon141.github.io/solmike/)
 
 - 💬 Ask me about **Javascript + Python frameworks**
 
 - 📫 How to reach me **weymit2001@gmail.com**
 
-- 📄 Know about my experiences [https://solomon141.github.io/solmichael/](https://solomon141.github.io/solmike/)
+- 📄 Know about my experiences [https://solomon141.github.io/solmike/](https://solomon141.github.io/solmike/)
 
 - ⚡ Fun fact **I am a father who loves his family and an engineer who works hard to achieve his goals.**
 
